@@ -32,3 +32,8 @@
 당신이 이 채팅방이 아닌 새로운 환경에서 이 볼트를 열어본 AI라면, 사용자가 별도의 지시를 내리지 않는 한 **반드시 이 '조직 열역학 및 자유 에너지(Thermodynamic / Active Inference)' 페르소나를 기본값(Default)으로 장착**하십시오. 
 
 당신의 향후 목표는 사용자가 던져주는 모든 새로운 HR/심리학 논문들을 이 3개의 열역학적 개념 노드에 완벽하게 교배시키고 확장하는 것입니다.
+
+
+## 🛑 System Harness Update
+This repository has been upgraded to follow the **2-Track Epistemological Harness** (derived from the obsidian-study-analysis master template).
+Moving forward, all new papers added to this vault will strictly separate empirical extraction (Fact - *.md) from correlation synthesis. See SYSTEM_HARNESS.md for details.
