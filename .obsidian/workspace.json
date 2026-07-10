@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#situational-strength",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,25 +181,25 @@
   },
   "active": "21f69315b5acd474",
   "lastOpenFiles": [
+    "wiki/Paper - Calderwood 2023.md",
+    "wiki/Paper - Dalal 2020.md",
+    "wiki/Paper - Judge 2015.md",
+    "2026-07-10.md",
+    "index.md",
+    "log.md",
     "wiki/synthesis/Graph_Topology_Analysis.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "wiki/synthesis/Applied_Situational_Strength_Framework.md",
-    "wiki/Paper - Judge 2015.md",
-    "2026-07-10.md",
     "wiki/concepts/Pathogenicity of Consequence-Based Enforcement.md",
     "wiki/synthesis/100_Round_Live_Debate.md",
     "wiki/synthesis/Colosseum_Executive_Report.md",
     "wiki/concepts/Hydraulic Displacement of Restrictive Constraints.md",
-    "wiki/Paper - Dalal 2020.md",
     "wiki/concepts/Structured Ambiguity (Informational vs Restrictive Strength).md",
     "wiki/concepts/Alpha-Beta Press Asymmetry.md",
     "wiki/concepts/Situational Strength.md",
-    "wiki/Paper - Calderwood 2023.md",
     "wiki/synthesis/Situational Strength Literature Synthesis.md",
     "wiki/synthesis/Debate Transcript - Situational Strength.md",
-    "index.md",
-    "log.md",
     "wiki/Paper - Meyer 2009.md",
     "wiki/entities",
     "wiki/synthesis",
