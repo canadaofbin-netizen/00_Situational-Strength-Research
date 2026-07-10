@@ -11,6 +11,8 @@ Unlike typical closed-off vaults, this repository is fully public and transparen
 
 ## 📁 Structure
 - `index.md`: The main dashboard tracking all sources and concepts.
+- `log.md`: An automated log file recording the actions, linting passes, and autonomous updates made by the AI swarm.
+- `raw/sources/`: The original PDF papers (Note: PDF files are ignored by git to prevent repository bloat).
 - `wiki/sources/`: Markdown summaries and bibliographic data automatically extracted from raw PDFs by the AI.
 - `wiki/concepts/`: Core semantic hubs created by the AI to interlink multiple sources.
 - `.agents/`: Contains the global system rules and `AGENTS.md` (the Constitution).
