@@ -1,12 +1,12 @@
 ---
 type: concept
-title: "Situational Strength (상황 강도)"
+title: "Situational Strength"
 description: "The degree to which situational cues dictate, restrict, or encourage specific behaviors, minimizing the influence of individual personality traits."
 tags:
   - SituationalStrength
   - Behavior
   - WorkEnvironment
-timestamp: "2026-07-10T21:09:40Z"
+timestamp: "2026-07-10T21:21:20Z"
 sources:
   - "[[Source - Calderwood (2023)]]"
   - "[[Source - Dalal (2020)]]"
@@ -14,7 +14,7 @@ sources:
   - "[[Source - Meyer (2009)]]"
 ---
 
-# Concept: Situational Strength (상황 강도)
+# Concept: Situational Strength
 
 ## 📌 Definition
 **Situational Strength** refers to implicit or explicit cues provided by external entities (like an organization or a manager) regarding the desirability of potential behaviors. 
@@ -25,4 +25,4 @@ sources:
 - **Constraint on Performance**: [[Source - Meyer (2009)]] strongly proves that high situational strength (constraints and consequences) neutralizes the natural performance advantage of highly conscientious individuals.
 - **The Process vs. Outcome Distinction**: Not all strong situations are the same. [[Source - Judge (2015)]] clarifies that structuring the *process* of work weakens personality validity, but strict *outcomes* only affect specific traits like Agreeableness.
 - **The Paradox of Strain**: While strong situations increase compliance, [[Source - Calderwood (2023)]] warns they can drastically increase employee strain (emotional exhaustion) if the strength is built on negative consequences and rigid constraints rather than clarity.
-- **The Displacement Effect**: If a strong situation blocks poor performance, it might backfire. [[Source - Dalal (2020)]] introduces the [[Concept - Situation-Outcome Mismatch (상황-결과 불일치)]] phenomenon, where suppressed negative traits are displaced into Counterproductive Work Behaviors.
+- **The Displacement Effect**: If a strong situation blocks poor performance, it might backfire. [[Source - Dalal (2020)]] introduces the [[Concept - Situation-Outcome Mismatch]] phenomenon, where suppressed negative traits are displaced into Counterproductive Work Behaviors.

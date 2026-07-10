@@ -1,12 +1,12 @@
 # 🌌 Universal Semantic Engine (Dashboard)
 
-> **💡 궁극적 목표:** 단순 요약을 넘어, 어떤 낯선 데이터가 들어오든 AI 스웜이 극한의 연결점을 찾아내어 완벽한 의미 기반 마인드맵 지형도를 자동 생성하는 것.
+> **💡 Ultimate Goal:** Beyond simple summarization, the AI swarm identifies extreme connective points within any unfamiliar data to automatically generate a perfect, semantic-based mind map topology.
 
 ---
 
 # LLM-Wiki Index
 
-This is the catalog of everything in the wiki.
+This is the catalog of everything in the wiki. All contents are enforced to be in English for maximum compatibility and global standardization.
 
 ## Sources
 *Sources ingested from raw documents.*
@@ -17,10 +17,10 @@ This is the catalog of everything in the wiki.
 
 ## Concepts
 *Core concept hubs linking multiple sources.*
-- [[Concept - Situational Strength (상황 강도)]]
-- [[Concept - Situation-Outcome Mismatch (상황-결과 불일치)]]
-- [[Concept - Interactionist Model (상호작용론 모델)]]
-- [[Concept - Extra-Normative Work (비정형 노동)]]
+- [[Concept - Situational Strength]]
+- [[Concept - Situation-Outcome Mismatch]]
+- [[Concept - Interactionist Model]]
+- [[Concept - Extra-Normative Work]]
 
 ## Entities
 *People, places, and other concrete entities.*

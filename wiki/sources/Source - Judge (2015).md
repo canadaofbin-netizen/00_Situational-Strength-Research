@@ -39,5 +39,5 @@ The researchers conducted a literature search of primary studies (yielding 125 c
 - **Conclusion on Situation Strength**: The findings empirically validate that situational strength (particularly regarding work process) serves as a general environmental constraint or facilitator—when situations are weak, the validity of personality traits in predicting job performance is often double what it is in typical contexts.
 
 ## Related Concepts
-- [[Concept - Situational Strength (상황 강도)]]
-- [[Concept - Interactionist Model (상호작용론 모델)]]
+- [[Concept - Situational Strength]]
+- [[Concept - Interactionist Model]]

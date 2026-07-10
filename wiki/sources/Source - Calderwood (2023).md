@@ -38,5 +38,5 @@ The researchers conducted three multi-modal studies:
 - **Consequences & Constraints (Aggravating Factors)**: These facets exacerbate strain. *Consequences* (e.g., negative outcomes for not doing the work) were consistently associated with higher emotional exhaustion, work anxiety, and job stress across studies. *Constraints* (lack of autonomy) were selectively and consistently related to higher emotional exhaustion across the survey studies.
 
 ## Related Concepts
-- [[Concept - Situational Strength (상황 강도)]]
-- [[Concept - Extra-Normative Work (비정형 노동)]]
+- [[Concept - Situational Strength]]
+- [[Concept - Extra-Normative Work]]

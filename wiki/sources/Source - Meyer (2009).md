@@ -42,5 +42,5 @@ The study uses meta-analysis to demonstrate that occupation-level **situational 
 - **Global Situational Strength**: Global situational strength had a significant moderating effect for both overall performance (β = -.26, p < .01) and task performance (β = -.22, p < .05). For example, in strong occupations like "nuclear equipment operation technician", the correlation was around *r* = .09, whereas in weak occupations like "barber", it rose to *r* = .23.
 
 ## Related Concepts
-- [[Concept - Situational Strength (상황 강도)]]
-- [[Concept - Interactionist Model (상호작용론 모델)]]
+- [[Concept - Situational Strength]]
+- [[Concept - Interactionist Model]]
