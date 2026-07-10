@@ -1,14 +1,20 @@
-# 🌌 Universal Semantic Engine (범용 지식 연결 엔진)
+# 🌌 Universal Semantic Engine
 
-이 프로젝트는 단순한 논문 요약 도구를 넘어, 어떠한 형태의 지식이 주어지든 스스로 연결점을 찾아내어 완벽한 지형도를 그려내는 **'자동화된 인공지능 지식망 엔진'**을 구축하기 위한 것입니다. (현재 `raw/sources` 내의 데이터는 파일럿 테스트용입니다.)
+> **Ultimate Goal:** Beyond simple summarization, the AI swarm identifies extreme connective points within any unfamiliar data to automatically generate a perfect, semantic-based mind map topology.
 
-## 🎯 1. 표면적 인용을 넘어서는 '심층 의미(Semantic) 지식망'
-* **한계 극복:** 논문 간에 직접적인 인용(Citation)이 없으면 선이 그어지지 않는 기존 도구들의 치명적 한계를 벗어납니다.
-* **핵심 개념(Concept) 허브화:** AI가 문서를 통째로 소화하여 변수, 연구 방법론, 대립 주장 등 'DNA'를 추출하고, 이를 중앙 허브로 삼아 문서들을 수십, 수백 개의 거미줄 같은 선으로 연결합니다.
+This repository serves as the core universal engine for the LLM-Wiki ecosystem.
 
-## 🤖 2. 플러그 앤 플레이(Plug & Play) 방식의 '오케스트레이터 스웜'
-* **도메인 종속성 탈피:** 사용자가 어떤 주제의 문서를 넣든, 그 도메인에 맞는 가상의 서브 에이전트들을 스스로 소환하여 작동합니다.
-* **완전 자율화:** AI 스웜이 백그라운드에서 교차 검증, 웹 검색, 마크다운 작성, 캔버스 렌더링, GitHub 동기화까지 완벽히 대행합니다.
+## 🛡️ Data Isolation Architecture
+To maintain privacy and universal applicability, this repository **only contains the engine code**. 
+All specific research data (sources, concepts, and entities) and the dashboard (`index.md`) are explicitly ignored by Git and must be generated locally by the user.
 
-## 🧹 3. 영구적으로 부패하지 않는 지식 (Anti-Staleness & 자가 진화)
-* **맞춤형 린터(Wiki Linter):** 지식이 쌓일수록 발생하는 모순과 고립된 노드(Orphan)를 끊임없이 자체 검열하고 수정하여 무결성을 유지합니다.
+## 📁 Structure
+- `.agents/`: Contains the global system rules and `AGENTS.md` (the Constitution).
+- `scripts/`: Contains Python scripts (Parsers, Academic Search APIs, Vector DB).
+- `.obsidian/`: Pre-configured Obsidian vault settings (Semantic color graphs).
+- `wiki/`: The empty directories where your local AI agent will generate and link knowledge nodes.
+
+## 🚀 How to use
+1. Clone this repository locally.
+2. Open the folder as a Vault in **Obsidian**.
+3. Summon your AI agent to begin ingesting PDFs into the `raw/sources/` folder. The AI will autonomously build your private semantic network!

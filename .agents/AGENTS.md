@@ -74,3 +74,8 @@ Look for multiple files with the same or near-identical names or titles.
 ## 6. 🌐 English-Only Policy
 - All knowledge nodes (titles and bodies of markdown files) must be written exclusively in **100% English**, the global standard.
 - Even if a Korean prompt is given, all agents, including subagents summoned in the background, must use English as the default language and strictly prohibit Korean translation or mixing when recording knowledge network data.
+
+## 7. 🛡️ Data Isolation Policy (Code vs. Data)
+- All generated knowledge nodes (`wiki/` contents) and dashboards (`index.md`, `log.md`) are strictly local and personal data.
+- Agents must never force-add these files to version control (Git).
+- The repository is solely for the universal engine code (Scripts, Rules, Prompts, Configs). Data extraction and semantic linking occur securely on the local drive only.
