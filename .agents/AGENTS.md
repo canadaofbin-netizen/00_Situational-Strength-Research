@@ -91,3 +91,7 @@ Numbered list of actions — note which require user approval before execution.
 - **Never create or edit wiki content pages.** That is the ingestor's job.
 - **Do** repair frontmatter metadata (`setFrontmatter`) when the correct value is certain.
 - Log the lint pass to `log.md` when done.
+
+## 4. 🚀 자동 동기화 (Auto-Sync) 룰
+- 에이전트가 파일 시스템에 변경사항(생성/수정/삭제)을 발생시켰을 경우, 별도의 지시가 없더라도 항상 로컬 git 저장소에 커밋(commit)하고 원격 저장소에 푸시(push)해야 합니다.
+- 커밋 메시지는 방금 수행한 작업의 핵심 내용을 요약하여 영어로 자동 작성합니다.
