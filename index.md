@@ -10,6 +10,10 @@ This is the catalog of everything in the wiki.
 
 ## Sources
 *Sources ingested from raw documents.*
+- [[Source - Calderwood (2023)]]
+- [[Source - Dalal (2020)]]
+- [[Source - Judge (2015)]]
+- [[Source - Meyer (2009)]]
 
 ## Concepts
 *Core concept hubs linking multiple sources.*
