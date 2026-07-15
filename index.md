@@ -14,6 +14,7 @@ This is the catalog of everything in the wiki. All contents are enforced to be i
 - [[Source - Dalal (2020)]]
 - [[Source - Judge (2015)]]
 - [[Source - Meyer (2009)]]
+- [[Source - Yam (2023)]]
 
 ## Concepts
 *Core concept hubs linking multiple sources.*
@@ -21,6 +22,7 @@ This is the catalog of everything in the wiki. All contents are enforced to be i
 - [[Concept - Situation-Outcome Mismatch]]
 - [[Concept - Interactionist Model]]
 - [[Concept - Extra-Normative Work]]
+- [[Concept - Job Insecurity]]
 
 ## Entities
 *People, places, and other concrete entities.*
