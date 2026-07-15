@@ -11,6 +11,8 @@ This document is the LLM-Wiki management rules (Schema) that agents operating wi
 
 ## 1. 📖 Ingest Workflow
 - Never modify the original papers (`raw/sources/`).
+- **Raw PDF Naming Convention:** Before ingestion, ensure all PDFs in `raw/sources/` strictly follow the `[Author] - [Year] - [Title].pdf` format. If not, use `scripts/parse_pdf.py` to extract metadata and rename the file.
+- **Encoding Guardrail:** When executing Python scripts in PowerShell that output text (e.g., `parse_pdf.py`), ALWAYS set `$env:PYTHONIOENCODING="utf-8"` before the command (e.g., `$env:PYTHONIOENCODING="utf-8"; python scripts/parse_pdf.py ...`) to prevent `UnicodeEncodeError` from special characters.
 - When ingesting a paper, create a **Source Note** containing the bibliographic information and a brief summary of the paper in `wiki/sources/`.
 - Identify the core topics, variables, etc. covered in the paper, create (or update) a **Concept Note** in `wiki/concepts/`, and link it to the source.
 - Always update `index.md` and `log.md` to leave a record.
